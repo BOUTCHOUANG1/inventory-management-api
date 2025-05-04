@@ -1,4 +1,4 @@
-package com.nathan.inventory_management_api.config.model;
+package com.nathan.inventory_management_api.model;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.DecimalMin;
